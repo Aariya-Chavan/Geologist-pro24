@@ -1,1 +1,2 @@
-# Geologist-pro24
+# Geologist
+Geologist Project
